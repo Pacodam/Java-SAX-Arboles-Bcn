@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<llistatArbrat> 
+    <arbre> 
+        <codi>0000002AR</codi> 
+        <posicioX_ETRS89>430310.290</posicioX_ETRS89> 
+        <posicioY_ETRS89>4587826.297</posicioY_ETRS89> 
+        <latitud_WGS84>41.4389859</latitud_WGS84> 
+        <longitud_WGS84>2.1658066</longitud_WGS84> 
+        <tipusElement>PALMERA ZONA</tipusElement> 
+        <espaiVerd>Can Ensenya, C.V. (Fabra i Puig 439, Villalba dels Arcs; parterres)</espaiVerd> 
+        <adreca>Pg Fabra i Puig, 449</adreca> 
+        <alcada>PETITA</alcada> 
+        <catEspecieId>1155</catEspecieId> 
+        <nomCientific>Chamaerops humilis</nomCientific> 
+        <nomEsp>Palmito</nomEsp> 
+        <nomCat>Margalló</nomCat> 
+        <categoriaArbrat>PRIMERA</categoriaArbrat> 
+        <ampladaVorera></ampladaVorera> 
+        <plantacioDT></plantacioDT> 
+        <tipAigua></tipAigua> 
+        <tipReg>ASPERSIÓ</tipReg> 
+        <tipSuperf>GESPA</tipSuperf> 
+        <tipSuport>PARTERRE</tipSuport> 
+        <cobertaEscocell></cobertaEscocell> 
+        <midaEscocell></midaEscocell> 
+        <voraEscocell></voraEscocell> 
+    </arbre> 
+    <arbre> 
+        <codi>0000008AR</codi> 
+        <posicioX_ETRS89>430286.284</posicioX_ETRS89> 
+        <posicioY_ETRS89>4587772.394</posicioY_ETRS89> 
+        <latitud_WGS84>41.4384984</latitud_WGS84> 
+        <longitud_WGS84>2.1655255</longitud_WGS84> 
+        <tipusElement>PALMERA ZONA</tipusElement> 
+        <espaiVerd>Can Ensenya, C.V. (Fabra i Puig 439, Villalba dels Arcs; parterres)</espaiVerd> 
+        <adreca>Pg Fabra i Puig, 441</adreca> 
+        <alcada>MITJANA</alcada> 
+        <catEspecieId>636</catEspecieId> 
+        <nomCientific>Yucca gigantea</nomCientific> 
+        <nomEsp>Yuca pie de elefante</nomEsp> 
+        <nomCat>Iuca peu d'elefant</nomCat> 
+        <categoriaArbrat>SEGONA</categoriaArbrat> 
+        <ampladaVorera></ampladaVorera> 
+        <plantacioDT></plantacioDT> 
+        <tipAigua></tipAigua> 
+        <tipReg>ASPERSIÓ</tipReg> 
+        <tipSuperf>GESPA</tipSuperf> 
+        <tipSuport>PARTERRE</tipSuport> 
+        <cobertaEscocell></cobertaEscocell> 
+        <midaEscocell></midaEscocell> 
+        <voraEscocell></voraEscocell> 
+    </arbre> 
+    <arbre> 
+        <codi>0000019AR</codi> 
+        <posicioX_ETRS89>430303.740</posicioX_ETRS89> 
+        <posicioY_ETRS89>4587711.054</posicioY_ETRS89> 
+        <latitud_WGS84>41.4379474</latitud_WGS84> 
+        <longitud_WGS84>2.1657415</longitud_WGS84> 
+        <tipusElement>PALMERA ZONA</tipusElement> 
+        <espaiVerd>Can Ensenya, C.V. (Fabra i Puig 439, Villalba dels Arcs; parterres)</espaiVerd> 
+        <adreca>C\ Vilalba dels Arcs, 94</adreca> 
+        <alcada>PETITA</alcada> 
+        <catEspecieId>1155</catEspecieId> 
+        <nomCientific>Chamaerops humilis</nomCientific> 
+        <nomEsp>Palmito</nomEsp> 
+        <nomCat>Margalló</nomCat> 
+        <categoriaArbrat>PRIMERA</categoriaArbrat> 
+        <ampladaVorera></ampladaVorera> 
+        <plantacioDT></plantacioDT> 
+        <tipAigua></tipAigua> 
+        <tipReg>ASPERSIÓ</tipReg> 
+        <tipSuperf>GESPA</tipSuperf> 
+        <tipSuport>PARTERRE</tipSuport> 
+        <cobertaEscocell></cobertaEscocell> 
+        <midaEscocell></midaEscocell> 
+        <voraEscocell></voraEscocell> 
+    </arbre> 
+	</llistatArbrat> 
